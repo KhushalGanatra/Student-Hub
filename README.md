@@ -1,6 +1,6 @@
 # Student Hub
 
- This project is a Java-based Student Hub developed using JSP (JavaServer Pages) for the user interface. <br>The system enables functionalities to add, edit, and delete student posts, profiles, and feedback. It also features an admin dashboard to manage users, comments, and other aspects of the platform.
+ This project is a Java-based Student Hub website developed using JSP (JavaServer Pages) for the user interface. <br>The system enables functionalities to add, edit, and delete student posts, profiles, and feedback. It also features an admin dashboard to manage users, comments, and other aspects of the platform.
  
 # Features
   - Add - View - Edit and Delete Students Posts
