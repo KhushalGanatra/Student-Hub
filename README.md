@@ -13,7 +13,7 @@
 
 # Technologies Used
  - Frontend: HTML, CSS, Bootstrap (or other frontend frameworks)<br>
- - JDBackend: JAVA, JSP, Servlets<br>
+ - Backend: JAVA, JSP, Servlets<br>
  - Database: MySQL (or other relational databases)<br>
  - Web Server : GlassFish (or Apache Tomcat)
 
